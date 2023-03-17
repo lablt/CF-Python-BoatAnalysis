@@ -1,8 +1,11 @@
 # Boat Sales Analysis
+An online company that sells yachts and boats is interested in creating a newsletter with their top performing listings. This is to provide both sellers and buyers what variables are the top factors in a listings popularity, as well as to stay on top of market trends.
 
-## Project Objective 
+# Objective
+To perform exploratory analysis and test relationships between quantitative variables in the dataset. 
 
-## Project Extras
+# Data
+The original data set used for this analysis was sourced through Kaggle and can be downloaded [here](https://www.kaggle.com/datasets/karthikbhandary2/boat-sales)
 
-## Data set 
-The original data was sourced from Kaggle 
+
+##### This exercise was created through the CareerFoundry Data Analytics course
